@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./caiipliniisecun01hardgoog_0007.png"; bbox 0 0 3150 5150; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 238 1813 2416 2422">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 238 1813 2416 2422">
+     <span class='ocr_line' id='line_1_1' title="bbox 326 1813 2301 2075; baseline -0.002 -68"><span class='ocrx_word' id='word_1_1' title='bbox 326 1881 789 2075; x_wconf 15' lang='lat' dir='ltr'><strong>&#39;CAH</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 882 1879 1458 2010; x_wconf 85' lang='lat' dir='ltr'>PLINII</span> <span class='ocrx_word' id='word_1_3' title='bbox 1547 1813 2301 2006; x_wconf 77' lang='lat' dir='ltr'>SECUNDI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 238 2229 2416 2422; baseline 0 -50"><span class='ocrx_word' id='word_1_4' title='bbox 238 2229 1231 2375; x_wconf 85' lang='lat' dir='ltr'>HISTORIAE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1350 2235 2416 2422; x_wconf 46' lang='lat' dir='ltr'>NLQTURALIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 886 2604 1827 2697">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 886 2604 1827 2697">
+     <span class='ocr_line' id='line_1_3' title="bbox 886 2604 1827 2697; baseline 0 -4"><span class='ocrx_word' id='word_1_6' title='bbox 886 2606 1253 2695; x_wconf 87' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_7' title='bbox 1313 2604 1827 2697; x_wconf 90' lang='lat' dir='ltr'><strong>XXXVII</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
